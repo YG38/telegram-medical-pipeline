@@ -1,0 +1,15 @@
+name: 'telegram_medical_dbt'
+version: '1.0.0'
+profile: 'telegram_pg'
+
+model-paths: ['models']
+
+models:
+  telegram_medical_dbt:
+    +schema: analytics
+    staging:
+      +schema: staging
+      +materialized: view
+    marts:
+      +schema: mart
+      +materialized: table

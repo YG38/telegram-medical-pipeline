@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment Variables
+.env
+
+# Data lake
+/data/
+
+# Virtualenv
+.env_*/
+.venv/
+
+# vscode
+.vscode/
+
+# dbt artifacts
+/target/
+/dbt_modules/
+
+# Docker
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
