@@ -129,4 +129,4 @@ Containerisation and modular open-source tooling (Telethon, dbt, YOLOv8, FastAPI
 
 ---
 
-**Prepared by:** Mahlet · Rediet · Kerod · Rehmet (Kara Solutions) – July 2025
+**Prepared by:** (Kara Solutions) – July 2025
